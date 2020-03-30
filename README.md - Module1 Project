@@ -1,0 +1,28 @@
+## Module 1 Project 
+   Hello, my name is Nyla Duperval and this is my Module 1 Project.
+
+
+## Lights, Camera, ACTION! 
+
+   Since the 1890s, the film industry has provided a gateway to learning, communion and exploration. With the advancement of technology, the film industry has changed specifically the monetary input. A successful file requires a successful a team of writers, cinematographers, editors etc. To determine if Microsoft should enter the film industry, let’s take a look at how much does it will cost to make a successful movie. Success will be determined by the comparison of production budget and gross (domestic & worldwide).
+   
+   
+## Data Cleaning
+
+   First, I have cleaned the data within the dataframe imported. I created a column to specify only the year of a movie release for easier indexing. I also removed the column 'id' and 'release_date'. The dataset did not have any NaN values. I checked for duplicates which showed movies with similar or the same movie title but we're release different years. Within the movie industry, movie remakes are common and can have very large timeframes.
+
+
+## Data Exploration 
+
+   Through my exploration of the data, I separated my data into two focus groups: 
+        Focus group 1: Movies with a domestic and worldwide gross
+        Focus group 2: Movies without a domestic and worldwide gross
+
+   I thought this was important to seperate in order to compare the budgets to those whom gained revenue and those whom did not. The first focus group showed a large dataset of 5234 movies while the second focus group showed 367 movies. Based on this information, there were more movies with a form of revenue than those without any earned. Since the technological advancements that have occurred rapidly within the movie industry, I decided to focus on last 5 years to gather an accurate picture of the industry today. 
+
+
+## Recommendation
+
+  Between 2015-2018, worldwide gross was substantial higher than production budgets. However, there is a small margin between production budgets and domestic gross. This can suggest within the United States there is a decrease in movie-goers or other outside factors. In 2019, there was a large decrease in worldwide and domestic gross compared to production budget. The largest average budget in focus group 1 was approximately 100 million dollars while the lowest average budget was approximately 16 million dollars. In focus group 2, the largest average budget was approximately 100 million dollars and the lowest average budget was approximately 2 million dollars. 
+
+   My recommendation is to purse a business venture into the movie industry is good venture to pursue. The movie industry is a lucrative business even though our world is increasing toward virtual original content. Film award shows and festivals are held every year around global even as streaming sites become popular they still require films from the theatre to keep their memberships. There are also opportunities to partner with a streaming service in the future. I will also recommend further research into determining possible risk factors, such as streaming sites, effects on domestic gross and determining if these factors can have a positive or negative affect in the near future.
